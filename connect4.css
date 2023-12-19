@@ -16,19 +16,19 @@
 }
 
 .piece.p1 {
-  background-color: red;
+  background-color: rgb(236, 163, 218);
 }
 
 .piece.p2 {
-  background-color: blue;
+  background-color: rgb(36, 237, 200);
 }
 
 /* column-top is table row of clickable areas for each column */
 
 #column-top td {
-  border: dashed 1px lightgray;
+  border: dashed 1px rgb(236, 163, 218);
 }
 
 #column-top td:hover {
-  background-color: gold;
+  background-color: rgb(255, 255, 255);
 }
